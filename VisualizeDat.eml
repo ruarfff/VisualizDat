@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="core.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/resources/core.jar!/"/>
+	</lib>
+	<lib name="google-gson-stream-1.6.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/resources/google-gson-stream-1.6.jar!/"/>
+	</lib>
+</component>

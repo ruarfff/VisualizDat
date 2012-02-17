@@ -1,0 +1,8 @@
+Library JAR file is located in the lib folder.
+
+Some examples are in the example forlder.
+
+The library allows users to input a set of data through a 
+string or file.
+
+Files accepted are .xml, .csv and .txt.

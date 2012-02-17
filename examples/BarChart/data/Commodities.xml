@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<commodities>
+	<commodity name='Gold' value='33.4'>
+	</commodity>
+	 <commodity name="Oil" value="28.5">
+	</commodity>
+	 <commodity name="Silver" value="17">
+	</commodity>
+	 <commodity name="Copper" value="12">
+	</commodity>
+	 <commodity name="Steel" value="12">
+	</commodity>
+</commodities>

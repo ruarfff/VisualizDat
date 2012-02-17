@@ -1,0 +1,1 @@
+Gold,33,Oil,22,Silver,17,Copper,9,Steel,12
